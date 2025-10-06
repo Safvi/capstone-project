@@ -1,0 +1,16 @@
+2025-09-29 17:32:51,253 - Cleaned patients data
+2025-09-29 17:33:00,215 - Cleaned doctors data
+2025-09-29 17:33:08,361 - Cleaned visits data
+2025-09-29 17:33:17,913 - Cleaned billing data
+2025-09-29 17:33:26,352 - Integrated all data
+2025-09-29 17:33:26,656 - NumExpr defaulting to 8 threads.
+2025-09-29 19:46:02,618 - Cleaned patients data
+2025-09-29 19:46:02,657 - Cleaned doctors data
+2025-09-29 19:46:02,692 - Cleaned visits data
+2025-09-29 19:46:02,731 - Cleaned billing data
+2025-09-29 19:46:02,764 - Integrated all data
+2025-09-29 19:50:50,690 - Cleaned patients data
+2025-09-29 19:51:06,328 - Cleaned doctors data
+2025-09-29 19:51:19,030 - Cleaned visits data
+2025-09-29 19:51:27,391 - Cleaned billing data
+2025-09-29 19:51:35,195 - Integrated all data

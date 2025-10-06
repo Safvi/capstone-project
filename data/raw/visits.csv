@@ -1,0 +1,1001 @@
+visit_id,patient_id,doctor_id,visit_date,reason,diagnosis,prescription,cost
+1,97,41,10/15/2022,Injury treatment,Asthma,Increase dosage,441
+2,134,40,9/28/2024,Chest pain,Flu,Referred to specialist,877
+3,323,2,3/20/2023,Back pain,Allergy,Recommended physiotherapy,4157
+4,457,21,12/28/2023,High blood pressure,Injury,Referred to specialist,4466
+5,421,41,6/24/2025,Diabetes management,Flu,Advised MRI scan,4014
+6,378,22,6/15/2025,Follow-up visit,Diabetes,Take rest and fluids,4646
+7,115,47,7/8/2025,Flu symptoms,Injury,Pain relief medication,168
+8,99,16,9/28/2024,Diabetes management,Flu,Increase dosage,3047
+9,94,15,2/21/2023,High blood pressure,Infection,Pain relief medication,3702
+10,241,1,6/13/2024,Routine Checkup,Hypertension,Continue existing treatment,1700
+11,104,13,11/28/2024,Routine Checkup,Infection,Advised MRI scan,3073
+12,328,2,5/29/2023,High blood pressure,Asthma,Recommended physiotherapy,1222
+13,16,7,11/6/2024,Back pain,Asthma,Start insulin,3012
+14,267,15,1/21/2024,Chest pain,Allergy,Blood test required,1198
+15,341,9,1/29/2025,Injury treatment,Diabetes,Take rest and fluids,2082
+16,188,8,12/21/2022,Chest pain,Hypertension,Take rest and fluids,1419
+17,441,40,1/18/2024,Flu symptoms,Injury,Blood test required,631
+18,111,34,9/17/2023,Chest pain,Allergy,Recommended physiotherapy,3378
+19,174,3,3/22/2024,Skin rash,Infection,Prescribed antibiotics,3245
+20,335,11,4/13/2023,Diabetes management,Diabetes,Pain relief medication,4400
+21,235,41,9/9/2022,Routine Checkup,Injury,Recommended physiotherapy,1344
+22,497,5,5/16/2023,Back pain,Hypertension,Advised MRI scan,2176
+23,179,24,1/28/2024,Skin rash,Asthma,Increase dosage,2348
+24,280,14,3/31/2024,Follow-up visit,Injury,Recommended physiotherapy,1887
+25,351,30,9/12/2022,Skin rash,Infection,Blood test required,3621
+26,205,7,8/31/2025,Flu symptoms,Infection,Continue existing treatment,3765
+27,323,30,9/24/2024,Skin rash,Infection,Blood test required,4728
+28,29,33,6/28/2025,High blood pressure,Injury,Prescribed antibiotics,4408
+29,162,9,4/20/2025,Injury treatment,Injury,Pain relief medication,3908
+30,30,11,9/24/2022,Follow-up visit,Hypertension,Pain relief medication,2893
+31,324,32,5/31/2023,High blood pressure,Allergy,Recommended physiotherapy,1011
+32,493,3,10/13/2022,Flu symptoms,Hypertension,Start insulin,3676
+33,461,46,2/10/2024,Injury treatment,Flu,Prescribed antibiotics,4001
+34,401,29,9/8/2023,Diabetes management,Flu,Pain relief medication,4873
+35,169,40,8/27/2023,Follow-up visit,Infection,Increase dosage,445
+36,220,16,10/12/2022,Follow-up visit,Flu,Referred to specialist,1467
+37,210,49,1/6/2023,Routine Checkup,Flu,Advised MRI scan,2629
+38,324,48,9/17/2022,Back pain,Diabetes,Start insulin,569
+39,201,33,4/4/2024,Diabetes management,Infection,Start insulin,928
+40,245,41,12/9/2023,Injury treatment,Asthma,Recommended physiotherapy,3073
+41,41,17,4/29/2024,Diabetes management,Asthma,Referred to specialist,3924
+42,230,37,5/21/2025,Back pain,Hypertension,Blood test required,626
+43,384,34,3/22/2025,Skin rash,Diabetes,Pain relief medication,2807
+44,84,43,1/10/2025,Routine Checkup,Asthma,Increase dosage,1623
+45,378,6,6/28/2024,Diabetes management,Allergy,Blood test required,1006
+46,83,5,8/4/2023,Chest pain,Infection,Take rest and fluids,4853
+47,368,8,5/22/2023,Routine Checkup,Injury,Referred to specialist,1434
+48,84,30,11/27/2022,Chest pain,Allergy,Take rest and fluids,4491
+49,456,10,10/27/2022,Follow-up visit,Diabetes,Prescribed antibiotics,2320
+50,240,40,1/17/2023,High blood pressure,Infection,Start insulin,3730
+51,273,19,1/11/2025,Injury treatment,Flu,Prescribed antibiotics,4848
+52,74,7,5/27/2025,Routine Checkup,Diabetes,Blood test required,1295
+53,349,10,6/27/2023,Headache,Asthma,Advised MRI scan,4588
+54,201,46,11/20/2023,Follow-up visit,Flu,Prescribed antibiotics,3497
+55,358,44,10/29/2022,Routine Checkup,Diabetes,Pain relief medication,507
+56,249,50,5/12/2024,Injury treatment,Injury,Blood test required,1640
+57,337,2,9/4/2025,Headache,Allergy,Continue existing treatment,3498
+58,425,30,3/24/2023,Chest pain,Injury,Take rest and fluids,1381
+59,435,19,5/25/2023,Injury treatment,Hypertension,Recommended physiotherapy,3752
+60,258,49,4/12/2025,Diabetes management,Flu,Advised MRI scan,4199
+61,395,34,12/23/2023,Flu symptoms,Allergy,Pain relief medication,375
+62,47,34,2/3/2024,Back pain,Injury,Pain relief medication,2157
+63,37,37,1/21/2023,Chest pain,Asthma,Increase dosage,4238
+64,241,43,9/16/2023,High blood pressure,Diabetes,Continue existing treatment,3065
+65,62,21,6/30/2025,High blood pressure,Asthma,Recommended physiotherapy,1505
+66,146,32,12/22/2023,Back pain,Allergy,Increase dosage,1697
+67,295,32,3/14/2024,Headache,Injury,Referred to specialist,3778
+68,99,16,9/19/2024,Injury treatment,Injury,Take rest and fluids,4917
+69,251,21,5/29/2024,Routine Checkup,Infection,Referred to specialist,1733
+70,286,28,10/12/2022,Injury treatment,Flu,Continue existing treatment,4530
+71,237,31,10/28/2024,Diabetes management,Diabetes,Recommended physiotherapy,2656
+72,61,49,7/14/2024,Follow-up visit,Diabetes,Pain relief medication,4465
+73,104,3,1/4/2025,Skin rash,Hypertension,Start insulin,2258
+74,489,28,10/1/2024,High blood pressure,Hypertension,Referred to specialist,1313
+75,442,30,7/27/2023,Back pain,Infection,Increase dosage,2643
+76,414,39,12/3/2024,Chest pain,Infection,Referred to specialist,4445
+77,343,9,9/20/2022,High blood pressure,Infection,Prescribed antibiotics,1519
+78,244,10,10/2/2023,Skin rash,Flu,Take rest and fluids,4426
+79,134,7,9/24/2022,Injury treatment,Injury,Recommended physiotherapy,1585
+80,72,34,10/29/2022,Back pain,Asthma,Continue existing treatment,4957
+81,238,6,12/10/2022,Diabetes management,Allergy,Prescribed antibiotics,3283
+82,235,38,10/6/2022,Follow-up visit,Allergy,Increase dosage,3322
+83,113,41,6/29/2025,Follow-up visit,Flu,Increase dosage,3457
+84,381,40,8/22/2024,Diabetes management,Infection,Continue existing treatment,1934
+85,12,37,8/25/2024,Follow-up visit,Allergy,Take rest and fluids,4023
+86,139,28,2/21/2023,Skin rash,Asthma,Referred to specialist,3100
+87,45,31,8/28/2024,High blood pressure,Allergy,Prescribed antibiotics,365
+88,426,39,5/22/2023,Headache,Injury,Start insulin,1555
+89,468,31,5/27/2023,Injury treatment,Injury,Continue existing treatment,512
+90,305,8,1/8/2025,Headache,Hypertension,Referred to specialist,827
+91,449,7,6/18/2023,Injury treatment,Diabetes,Increase dosage,2942
+92,486,50,1/15/2024,Back pain,Diabetes,Pain relief medication,2807
+93,37,39,11/3/2022,Headache,Hypertension,Take rest and fluids,2583
+94,251,4,10/14/2022,Headache,Asthma,Pain relief medication,4562
+95,86,12,3/6/2023,Back pain,Injury,Prescribed antibiotics,1515
+96,434,14,9/21/2024,Diabetes management,Flu,Pain relief medication,418
+97,49,25,8/17/2023,Diabetes management,Injury,Take rest and fluids,750
+98,338,22,6/18/2024,High blood pressure,Hypertension,Recommended physiotherapy,2843
+99,484,28,9/15/2024,Injury treatment,Allergy,Prescribed antibiotics,4443
+100,100,18,8/3/2024,High blood pressure,Allergy,Pain relief medication,2868
+101,201,8,6/16/2025,Headache,Flu,Referred to specialist,2686
+102,372,1,12/3/2023,Flu symptoms,Asthma,Increase dosage,4160
+103,378,29,1/3/2025,Chest pain,Infection,Advised MRI scan,1859
+104,281,34,5/7/2024,Flu symptoms,Injury,Pain relief medication,4123
+105,224,23,9/2/2024,Injury treatment,Diabetes,Referred to specialist,2777
+106,201,15,8/24/2025,Headache,Injury,Increase dosage,2789
+107,55,36,1/7/2023,High blood pressure,Allergy,Referred to specialist,962
+108,321,42,10/21/2023,Routine Checkup,Injury,Take rest and fluids,4075
+109,138,10,10/5/2023,Headache,Diabetes,Start insulin,1550
+110,92,15,10/11/2024,Back pain,Hypertension,Take rest and fluids,3513
+111,406,6,5/11/2023,Routine Checkup,Allergy,Advised MRI scan,4892
+112,19,10,9/22/2023,Chest pain,Flu,Take rest and fluids,1172
+113,390,19,1/27/2025,High blood pressure,Infection,Pain relief medication,188
+114,187,32,1/13/2023,Diabetes management,Allergy,Blood test required,887
+115,453,25,12/13/2022,Follow-up visit,Diabetes,Increase dosage,1174
+116,197,34,12/25/2022,Diabetes management,Hypertension,Pain relief medication,345
+117,266,21,12/19/2022,Routine Checkup,Allergy,Referred to specialist,221
+118,356,7,5/19/2024,Flu symptoms,Allergy,Pain relief medication,1151
+119,498,33,7/9/2023,Injury treatment,Diabetes,Increase dosage,1269
+120,311,26,6/11/2025,Diabetes management,Hypertension,Prescribed antibiotics,2904
+121,487,43,9/10/2024,Injury treatment,Asthma,Advised MRI scan,974
+122,374,39,5/14/2023,Back pain,Asthma,Recommended physiotherapy,1582
+123,279,9,5/28/2025,Injury treatment,Diabetes,Continue existing treatment,3883
+124,53,47,2/7/2025,Diabetes management,Infection,Continue existing treatment,2324
+125,133,41,5/16/2024,Injury treatment,Allergy,Blood test required,1641
+126,103,41,1/29/2023,Flu symptoms,Injury,Continue existing treatment,2137
+127,230,38,8/28/2024,Skin rash,Infection,Referred to specialist,1912
+128,296,8,11/11/2024,Flu symptoms,Asthma,Start insulin,4243
+129,160,30,1/5/2023,Routine Checkup,Flu,Continue existing treatment,3740
+130,146,41,8/5/2025,Routine Checkup,Allergy,Pain relief medication,3427
+131,124,40,4/17/2025,Diabetes management,Infection,Increase dosage,4875
+132,374,4,6/6/2024,Diabetes management,Diabetes,Prescribed antibiotics,571
+133,137,42,4/2/2023,Skin rash,Hypertension,Recommended physiotherapy,924
+134,368,9,10/15/2022,Injury treatment,Allergy,Take rest and fluids,3444
+135,16,41,11/5/2024,Headache,Hypertension,Continue existing treatment,1500
+136,226,20,1/8/2023,Flu symptoms,Asthma,Start insulin,4529
+137,25,13,10/21/2022,Chest pain,Diabetes,Pain relief medication,2061
+138,386,26,6/6/2025,Injury treatment,Infection,Blood test required,4806
+139,389,48,9/8/2023,Skin rash,Hypertension,Continue existing treatment,3840
+140,344,26,7/18/2024,Skin rash,Hypertension,Recommended physiotherapy,776
+141,369,9,4/26/2025,Headache,Flu,Prescribed antibiotics,3179
+142,484,28,10/16/2022,Injury treatment,Diabetes,Increase dosage,3188
+143,49,49,9/26/2022,Injury treatment,Infection,Start insulin,1522
+144,360,20,9/19/2023,Skin rash,Allergy,Referred to specialist,3849
+145,206,44,1/13/2024,Flu symptoms,Infection,Take rest and fluids,2842
+146,205,12,7/20/2024,Back pain,Allergy,Increase dosage,622
+147,15,26,5/20/2024,Routine Checkup,Allergy,Prescribed antibiotics,1793
+148,64,28,11/28/2022,Skin rash,Allergy,Recommended physiotherapy,3216
+149,312,2,2/26/2025,Flu symptoms,Diabetes,Blood test required,4549
+150,492,4,8/9/2025,Headache,Infection,Take rest and fluids,3393
+151,215,1,9/12/2024,Back pain,Flu,Blood test required,2496
+152,360,44,10/6/2024,Back pain,Infection,Continue existing treatment,3329
+153,243,6,1/16/2024,Injury treatment,Injury,Blood test required,4264
+154,441,28,9/7/2023,Headache,Infection,Advised MRI scan,2707
+155,323,12,2/20/2024,Follow-up visit,Asthma,Referred to specialist,2723
+156,70,43,1/30/2023,Skin rash,Hypertension,Referred to specialist,2416
+157,20,42,11/10/2023,High blood pressure,Injury,Pain relief medication,1100
+158,238,13,7/8/2023,Follow-up visit,Hypertension,Referred to specialist,3640
+159,250,39,3/14/2025,Back pain,Injury,Take rest and fluids,374
+160,429,5,1/7/2025,Flu symptoms,Allergy,Increase dosage,2815
+161,18,16,12/27/2024,Follow-up visit,Flu,Continue existing treatment,2619
+162,242,2,11/5/2023,High blood pressure,Flu,Start insulin,4785
+163,156,9,10/3/2022,High blood pressure,Asthma,Prescribed antibiotics,2066
+164,134,45,1/20/2025,Follow-up visit,Allergy,Continue existing treatment,3982
+165,487,30,8/29/2023,Flu symptoms,Injury,Blood test required,247
+166,33,27,4/30/2023,High blood pressure,Allergy,Take rest and fluids,4121
+167,78,16,4/22/2025,Skin rash,Diabetes,Start insulin,2036
+168,108,34,11/10/2024,Diabetes management,Infection,Increase dosage,2780
+169,442,34,12/1/2023,Chest pain,Asthma,Start insulin,3398
+170,191,30,7/29/2023,High blood pressure,Flu,Continue existing treatment,2009
+171,1,27,8/2/2024,Back pain,Injury,Blood test required,2914
+172,344,42,4/28/2023,Routine Checkup,Diabetes,Continue existing treatment,1991
+173,321,46,12/29/2023,High blood pressure,Diabetes,Increase dosage,1557
+174,187,48,6/1/2023,Back pain,Diabetes,Prescribed antibiotics,3689
+175,480,27,7/10/2023,Routine Checkup,Allergy,Continue existing treatment,2364
+176,162,5,10/20/2024,Back pain,Asthma,Pain relief medication,1083
+177,99,19,2/19/2025,Flu symptoms,Diabetes,Take rest and fluids,202
+178,496,4,7/15/2025,Injury treatment,Injury,Prescribed antibiotics,4317
+179,114,29,9/21/2022,Flu symptoms,Allergy,Advised MRI scan,4942
+180,185,15,8/1/2024,Injury treatment,Diabetes,Start insulin,3418
+181,62,44,10/29/2024,Injury treatment,Diabetes,Take rest and fluids,4892
+182,39,9,5/16/2024,Routine Checkup,Asthma,Referred to specialist,1334
+183,193,21,4/9/2025,Follow-up visit,Allergy,Pain relief medication,4544
+184,227,46,7/15/2025,Back pain,Asthma,Blood test required,1188
+185,56,46,7/31/2024,Chest pain,Hypertension,Recommended physiotherapy,2682
+186,12,26,12/4/2022,Chest pain,Diabetes,Take rest and fluids,2997
+187,156,19,4/5/2023,Diabetes management,Asthma,Prescribed antibiotics,2877
+188,141,40,6/27/2023,Flu symptoms,Flu,Continue existing treatment,2665
+189,358,14,5/5/2023,Injury treatment,Asthma,Continue existing treatment,1440
+190,391,14,8/7/2023,Routine Checkup,Hypertension,Prescribed antibiotics,4112
+191,157,19,5/31/2024,Routine Checkup,Flu,Blood test required,1917
+192,323,23,10/28/2024,Diabetes management,Allergy,Take rest and fluids,175
+193,294,9,2/13/2024,Diabetes management,Flu,Continue existing treatment,4851
+194,222,39,9/25/2024,Routine Checkup,Flu,Increase dosage,3919
+195,77,5,8/24/2025,Injury treatment,Infection,Advised MRI scan,1416
+196,354,15,9/21/2025,Chest pain,Diabetes,Advised MRI scan,4149
+197,482,20,3/13/2023,High blood pressure,Hypertension,Prescribed antibiotics,3284
+198,46,41,4/15/2024,Diabetes management,Asthma,Start insulin,4414
+199,325,48,7/3/2024,Headache,Hypertension,Referred to specialist,2683
+200,281,33,9/1/2025,Chest pain,Injury,Pain relief medication,2250
+201,492,7,12/25/2022,Follow-up visit,Infection,Advised MRI scan,707
+202,109,47,5/27/2024,Diabetes management,Asthma,Take rest and fluids,222
+203,442,41,5/24/2024,Headache,Diabetes,Prescribed antibiotics,2878
+204,94,4,1/19/2025,Flu symptoms,Flu,Start insulin,772
+205,378,30,7/11/2024,Injury treatment,Asthma,Start insulin,874
+206,78,2,3/13/2024,Chest pain,Hypertension,Blood test required,4904
+207,398,26,6/13/2024,Follow-up visit,Injury,Start insulin,3989
+208,469,2,10/15/2023,Flu symptoms,Asthma,Pain relief medication,1170
+209,187,24,9/7/2025,Headache,Asthma,Increase dosage,224
+210,494,26,7/14/2023,High blood pressure,Infection,Blood test required,4578
+211,186,31,8/13/2023,Diabetes management,Injury,Continue existing treatment,4081
+212,466,39,8/14/2023,Back pain,Injury,Prescribed antibiotics,1673
+213,54,17,5/21/2025,Back pain,Allergy,Prescribed antibiotics,643
+214,164,10,9/8/2022,Flu symptoms,Hypertension,Continue existing treatment,4165
+215,126,6,12/30/2022,Routine Checkup,Diabetes,Continue existing treatment,3278
+216,370,31,1/12/2024,Routine Checkup,Injury,Take rest and fluids,4082
+217,457,25,10/31/2024,Routine Checkup,Flu,Referred to specialist,4386
+218,307,29,3/30/2024,High blood pressure,Infection,Start insulin,2974
+219,207,25,8/22/2023,Chest pain,Flu,Start insulin,1799
+220,77,2,8/23/2023,Injury treatment,Diabetes,Referred to specialist,138
+221,440,22,8/6/2024,Routine Checkup,Asthma,Continue existing treatment,1586
+222,325,42,2/18/2023,Skin rash,Infection,Recommended physiotherapy,3563
+223,324,5,2/5/2024,Routine Checkup,Asthma,Take rest and fluids,1648
+224,194,3,2/28/2024,Diabetes management,Asthma,Increase dosage,1312
+225,451,36,4/13/2024,Chest pain,Asthma,Prescribed antibiotics,3597
+226,457,49,6/21/2024,Flu symptoms,Diabetes,Start insulin,241
+227,299,28,2/7/2025,Injury treatment,Flu,Increase dosage,1899
+228,318,50,10/19/2022,Flu symptoms,Allergy,Prescribed antibiotics,4199
+229,175,3,4/8/2025,High blood pressure,Diabetes,Referred to specialist,578
+230,253,9,12/9/2024,Injury treatment,Hypertension,Continue existing treatment,4990
+231,108,18,10/13/2023,Follow-up visit,Injury,Increase dosage,1979
+232,407,26,9/25/2023,Follow-up visit,Asthma,Take rest and fluids,1333
+233,331,38,9/7/2022,Skin rash,Flu,Start insulin,1175
+234,485,1,12/14/2024,Diabetes management,Injury,Pain relief medication,1130
+235,100,45,11/18/2024,Diabetes management,Injury,Continue existing treatment,567
+236,397,13,5/28/2023,Injury treatment,Asthma,Prescribed antibiotics,561
+237,136,1,7/19/2023,Chest pain,Allergy,Recommended physiotherapy,3883
+238,157,34,5/15/2025,Diabetes management,Asthma,Continue existing treatment,1242
+239,292,26,5/27/2025,Headache,Injury,Advised MRI scan,838
+240,340,5,10/20/2023,Back pain,Hypertension,Advised MRI scan,1227
+241,297,43,5/26/2023,Back pain,Asthma,Referred to specialist,4970
+242,450,49,8/23/2024,Diabetes management,Hypertension,Increase dosage,2287
+243,472,30,4/5/2025,Back pain,Allergy,Advised MRI scan,2011
+244,293,7,12/24/2023,Injury treatment,Asthma,Recommended physiotherapy,3098
+245,496,38,4/30/2023,Routine Checkup,Infection,Prescribed antibiotics,4290
+246,379,7,9/11/2022,Flu symptoms,Infection,Recommended physiotherapy,4438
+247,467,45,6/26/2024,Injury treatment,Flu,Pain relief medication,4063
+248,17,43,10/12/2024,Back pain,Flu,Increase dosage,2088
+249,100,49,10/3/2023,High blood pressure,Infection,Blood test required,1495
+250,28,48,4/14/2023,Skin rash,Injury,Start insulin,2858
+251,230,48,9/26/2023,Routine Checkup,Injury,Prescribed antibiotics,2297
+252,362,12,1/12/2024,Skin rash,Asthma,Continue existing treatment,2603
+253,487,12,9/10/2025,Skin rash,Flu,Continue existing treatment,892
+254,76,44,11/28/2024,Back pain,Hypertension,Continue existing treatment,4919
+255,287,22,12/12/2024,Skin rash,Injury,Take rest and fluids,3263
+256,287,22,2/1/2024,Skin rash,Hypertension,Blood test required,1972
+257,22,5,9/16/2024,Follow-up visit,Diabetes,Start insulin,4850
+258,362,43,3/25/2023,Chest pain,Asthma,Start insulin,2630
+259,9,4,6/29/2025,Chest pain,Allergy,Pain relief medication,478
+260,491,40,11/9/2022,Diabetes management,Diabetes,Advised MRI scan,749
+261,131,21,2/18/2023,Chest pain,Asthma,Continue existing treatment,2026
+262,265,2,7/29/2023,Skin rash,Infection,Start insulin,1683
+263,299,2,7/12/2024,Headache,Injury,Continue existing treatment,569
+264,184,3,8/27/2025,High blood pressure,Asthma,Blood test required,4025
+265,403,21,12/12/2022,Back pain,Injury,Blood test required,4330
+266,42,17,11/18/2022,Flu symptoms,Hypertension,Advised MRI scan,3791
+267,368,40,1/3/2024,Diabetes management,Diabetes,Advised MRI scan,301
+268,229,19,1/9/2023,Skin rash,Asthma,Advised MRI scan,1333
+269,97,18,9/24/2023,Injury treatment,Hypertension,Prescribed antibiotics,422
+270,356,39,2/10/2025,Diabetes management,Hypertension,Continue existing treatment,1214
+271,309,27,4/10/2023,Flu symptoms,Injury,Take rest and fluids,2055
+272,67,6,8/6/2024,Skin rash,Asthma,Advised MRI scan,3729
+273,372,39,5/24/2025,Skin rash,Allergy,Pain relief medication,583
+274,186,39,11/4/2024,Headache,Injury,Recommended physiotherapy,4488
+275,40,29,2/11/2024,Chest pain,Hypertension,Referred to specialist,3531
+276,58,11,9/27/2024,Diabetes management,Asthma,Increase dosage,4192
+277,494,5,4/25/2025,Diabetes management,Hypertension,Recommended physiotherapy,3288
+278,428,10,5/27/2023,Skin rash,Diabetes,Recommended physiotherapy,574
+279,333,32,1/6/2023,High blood pressure,Infection,Advised MRI scan,1480
+280,424,40,3/19/2024,High blood pressure,Infection,Pain relief medication,4766
+281,338,35,3/22/2023,High blood pressure,Hypertension,Increase dosage,2750
+282,402,8,1/31/2024,Diabetes management,Injury,Prescribed antibiotics,913
+283,390,27,1/28/2025,Injury treatment,Allergy,Take rest and fluids,4777
+284,59,16,9/24/2022,Flu symptoms,Asthma,Start insulin,530
+285,84,32,6/13/2023,Chest pain,Diabetes,Continue existing treatment,875
+286,106,26,6/24/2025,Follow-up visit,Asthma,Advised MRI scan,4294
+287,239,28,3/17/2023,Skin rash,Asthma,Increase dosage,1217
+288,396,16,5/30/2023,Injury treatment,Allergy,Prescribed antibiotics,3617
+289,202,2,1/27/2023,Routine Checkup,Allergy,Blood test required,2985
+290,215,3,2/18/2025,Back pain,Allergy,Advised MRI scan,222
+291,444,7,5/17/2023,Follow-up visit,Infection,Continue existing treatment,745
+292,427,21,2/17/2023,Back pain,Injury,Referred to specialist,4036
+293,286,26,9/19/2024,Headache,Asthma,Blood test required,3828
+294,393,32,8/18/2025,High blood pressure,Diabetes,Recommended physiotherapy,2003
+295,290,6,8/27/2024,Back pain,Hypertension,Prescribed antibiotics,550
+296,271,13,10/14/2022,Diabetes management,Asthma,Start insulin,1070
+297,263,12,6/9/2024,Back pain,Injury,Advised MRI scan,3155
+298,51,4,6/6/2025,Chest pain,Allergy,Take rest and fluids,4104
+299,317,35,8/16/2024,Flu symptoms,Infection,Increase dosage,129
+300,214,8,6/30/2024,Flu symptoms,Injury,Take rest and fluids,454
+301,4,28,7/21/2023,Routine Checkup,Injury,Start insulin,542
+302,255,50,8/10/2023,Back pain,Allergy,Prescribed antibiotics,4475
+303,376,27,2/25/2025,Diabetes management,Injury,Take rest and fluids,338
+304,261,33,2/1/2024,Follow-up visit,Injury,Pain relief medication,2335
+305,264,32,6/7/2023,Flu symptoms,Infection,Blood test required,4278
+306,447,24,8/18/2024,Back pain,Hypertension,Prescribed antibiotics,171
+307,178,22,2/5/2023,Injury treatment,Asthma,Pain relief medication,4179
+308,120,37,6/3/2025,Follow-up visit,Injury,Start insulin,820
+309,467,16,9/6/2022,Routine Checkup,Flu,Continue existing treatment,1645
+310,19,45,7/27/2024,Chest pain,Injury,Continue existing treatment,3682
+311,275,49,6/19/2023,Chest pain,Diabetes,Advised MRI scan,3717
+312,38,6,6/8/2024,Routine Checkup,Infection,Pain relief medication,3354
+313,165,17,9/27/2023,High blood pressure,Hypertension,Continue existing treatment,4715
+314,131,3,7/7/2024,Flu symptoms,Asthma,Advised MRI scan,4749
+315,199,7,8/28/2025,Chest pain,Infection,Increase dosage,3184
+316,389,35,9/8/2024,Injury treatment,Asthma,Continue existing treatment,1895
+317,173,45,11/16/2023,Chest pain,Injury,Take rest and fluids,3135
+318,434,11,12/14/2022,Diabetes management,Flu,Continue existing treatment,1150
+319,198,31,8/8/2025,Injury treatment,Asthma,Continue existing treatment,4280
+320,372,35,1/9/2023,Back pain,Injury,Take rest and fluids,4838
+321,253,45,4/28/2023,Diabetes management,Infection,Start insulin,3557
+322,58,5,1/18/2023,Skin rash,Flu,Referred to specialist,1235
+323,381,18,9/18/2022,Follow-up visit,Diabetes,Pain relief medication,540
+324,392,3,11/30/2022,High blood pressure,Flu,Prescribed antibiotics,1247
+325,369,29,5/22/2024,Skin rash,Allergy,Take rest and fluids,1778
+326,111,2,3/12/2025,High blood pressure,Diabetes,Advised MRI scan,4388
+327,440,11,2/20/2025,High blood pressure,Diabetes,Blood test required,105
+328,445,16,3/2/2025,High blood pressure,Infection,Blood test required,1061
+329,130,14,6/25/2025,Follow-up visit,Infection,Prescribed antibiotics,3055
+330,86,46,1/2/2024,Routine Checkup,Allergy,Advised MRI scan,1292
+331,98,22,9/6/2024,Headache,Infection,Referred to specialist,210
+332,272,45,12/30/2024,Chest pain,Asthma,Blood test required,173
+333,227,11,9/11/2023,High blood pressure,Diabetes,Start insulin,1904
+334,381,5,4/2/2025,Injury treatment,Hypertension,Take rest and fluids,3194
+335,256,43,2/21/2023,Diabetes management,Infection,Referred to specialist,1345
+336,493,40,2/23/2023,Injury treatment,Infection,Blood test required,3177
+337,163,31,4/20/2025,Routine Checkup,Injury,Prescribed antibiotics,779
+338,102,31,8/31/2025,Chest pain,Hypertension,Referred to specialist,3871
+339,308,8,1/6/2024,Chest pain,Flu,Continue existing treatment,812
+340,391,46,1/28/2023,Skin rash,Hypertension,Continue existing treatment,3189
+341,351,44,7/13/2023,High blood pressure,Infection,Start insulin,3721
+342,464,33,7/17/2024,Routine Checkup,Hypertension,Prescribed antibiotics,1605
+343,473,27,10/25/2024,Headache,Allergy,Blood test required,914
+344,337,49,6/10/2025,Injury treatment,Injury,Referred to specialist,3750
+345,229,25,7/6/2024,Skin rash,Hypertension,Increase dosage,4728
+346,438,49,7/21/2024,Back pain,Flu,Continue existing treatment,426
+347,118,33,3/19/2025,Flu symptoms,Infection,Pain relief medication,3547
+348,304,6,6/1/2024,Injury treatment,Infection,Start insulin,3482
+349,7,5,8/5/2024,High blood pressure,Asthma,Blood test required,440
+350,177,28,6/18/2024,Follow-up visit,Diabetes,Take rest and fluids,1511
+351,362,50,3/5/2024,Headache,Injury,Pain relief medication,2919
+352,289,12,1/10/2025,Follow-up visit,Hypertension,Referred to specialist,385
+353,235,43,12/22/2022,Follow-up visit,Allergy,Prescribed antibiotics,488
+354,489,36,4/9/2025,Skin rash,Diabetes,Referred to specialist,3574
+355,489,37,10/12/2022,Chest pain,Flu,Increase dosage,246
+356,25,3,6/24/2024,Flu symptoms,Allergy,Start insulin,777
+357,386,45,5/27/2023,Skin rash,Diabetes,Take rest and fluids,1253
+358,54,11,5/21/2024,Skin rash,Infection,Prescribed antibiotics,950
+359,402,12,7/20/2023,Headache,Allergy,Pain relief medication,186
+360,310,47,10/3/2023,Flu symptoms,Diabetes,Blood test required,2512
+361,381,10,2/3/2025,Headache,Allergy,Prescribed antibiotics,3125
+362,256,9,11/3/2024,Headache,Hypertension,Start insulin,146
+363,93,49,10/14/2024,Diabetes management,Diabetes,Continue existing treatment,2574
+364,104,15,9/2/2025,Skin rash,Allergy,Take rest and fluids,4823
+365,362,18,2/15/2024,Skin rash,Diabetes,Start insulin,4269
+366,311,16,11/20/2023,Diabetes management,Infection,Recommended physiotherapy,466
+367,51,48,4/2/2023,High blood pressure,Diabetes,Recommended physiotherapy,236
+368,368,3,6/26/2025,Back pain,Injury,Continue existing treatment,2548
+369,319,27,9/1/2023,High blood pressure,Diabetes,Start insulin,4915
+370,404,34,10/30/2024,Skin rash,Diabetes,Start insulin,498
+371,184,25,6/9/2023,Headache,Allergy,Take rest and fluids,2854
+372,195,23,3/21/2023,Headache,Injury,Take rest and fluids,1765
+373,121,40,6/15/2023,High blood pressure,Asthma,Increase dosage,589
+374,274,35,7/6/2025,Routine Checkup,Diabetes,Blood test required,1916
+375,123,4,12/25/2024,Routine Checkup,Asthma,Blood test required,3921
+376,37,6,8/30/2025,Routine Checkup,Allergy,Pain relief medication,4022
+377,492,13,9/13/2023,Chest pain,Injury,Advised MRI scan,719
+378,236,28,1/20/2025,High blood pressure,Injury,Take rest and fluids,794
+379,498,17,12/7/2022,Chest pain,Infection,Advised MRI scan,4578
+380,185,7,3/3/2025,Chest pain,Hypertension,Referred to specialist,3592
+381,258,12,10/28/2024,Injury treatment,Hypertension,Start insulin,1629
+382,484,43,8/26/2023,Follow-up visit,Hypertension,Prescribed antibiotics,1065
+383,215,1,10/9/2022,Injury treatment,Hypertension,Take rest and fluids,3125
+384,229,22,2/17/2024,Injury treatment,Allergy,Increase dosage,3912
+385,438,25,4/8/2025,High blood pressure,Allergy,Advised MRI scan,2770
+386,436,16,5/27/2024,Flu symptoms,Hypertension,Pain relief medication,4666
+387,474,22,8/12/2023,Diabetes management,Injury,Start insulin,2693
+388,11,3,7/10/2025,Headache,Allergy,Take rest and fluids,4602
+389,137,11,8/23/2025,Flu symptoms,Flu,Blood test required,4989
+390,216,33,4/27/2025,Skin rash,Hypertension,Advised MRI scan,2303
+391,369,35,6/14/2023,High blood pressure,Diabetes,Continue existing treatment,4515
+392,312,5,5/19/2024,Back pain,Infection,Referred to specialist,1997
+393,138,27,4/26/2025,Follow-up visit,Asthma,Referred to specialist,3599
+394,246,4,6/15/2025,Headache,Flu,Start insulin,1628
+395,416,39,12/29/2022,Routine Checkup,Allergy,Take rest and fluids,4764
+396,365,16,2/6/2025,Chest pain,Infection,Continue existing treatment,1696
+397,291,42,9/20/2025,Follow-up visit,Allergy,Increase dosage,3408
+398,450,47,4/1/2023,Injury treatment,Hypertension,Continue existing treatment,896
+399,95,6,11/7/2023,Flu symptoms,Hypertension,Advised MRI scan,4054
+400,135,4,4/29/2025,Back pain,Allergy,Prescribed antibiotics,1630
+401,498,21,5/6/2023,Injury treatment,Asthma,Take rest and fluids,304
+402,301,37,12/12/2023,Flu symptoms,Allergy,Advised MRI scan,261
+403,41,30,5/8/2024,Headache,Asthma,Take rest and fluids,4672
+404,25,23,11/21/2023,Diabetes management,Flu,Pain relief medication,2127
+405,270,26,7/17/2024,Skin rash,Flu,Prescribed antibiotics,3695
+406,116,10,9/2/2024,Skin rash,Injury,Start insulin,4555
+407,420,41,2/17/2023,Flu symptoms,Allergy,Recommended physiotherapy,4761
+408,156,6,1/23/2024,Headache,Diabetes,Pain relief medication,4303
+409,272,28,7/15/2024,Diabetes management,Flu,Recommended physiotherapy,1115
+410,91,21,11/20/2024,Follow-up visit,Asthma,Prescribed antibiotics,3759
+411,433,13,1/12/2025,Flu symptoms,Infection,Prescribed antibiotics,2398
+412,60,29,6/20/2024,Diabetes management,Hypertension,Prescribed antibiotics,2684
+413,246,40,7/14/2025,Flu symptoms,Infection,Start insulin,2934
+414,222,42,8/11/2024,Diabetes management,Diabetes,Prescribed antibiotics,705
+415,157,23,6/21/2023,Routine Checkup,Injury,Continue existing treatment,3456
+416,6,15,10/20/2022,Diabetes management,Hypertension,Increase dosage,134
+417,287,15,9/8/2024,Flu symptoms,Diabetes,Recommended physiotherapy,345
+418,84,15,7/12/2025,Follow-up visit,Infection,Advised MRI scan,2263
+419,97,10,8/1/2025,Chest pain,Infection,Continue existing treatment,3054
+420,422,17,4/16/2024,Injury treatment,Infection,Continue existing treatment,3127
+421,359,23,7/22/2025,Injury treatment,Diabetes,Increase dosage,3269
+422,472,34,12/15/2022,Headache,Allergy,Pain relief medication,2948
+423,58,34,10/7/2023,Flu symptoms,Allergy,Start insulin,1235
+424,4,23,2/11/2023,Diabetes management,Flu,Take rest and fluids,1468
+425,480,6,3/19/2023,Headache,Diabetes,Referred to specialist,4685
+426,232,6,6/7/2023,High blood pressure,Hypertension,Recommended physiotherapy,2274
+427,434,19,10/6/2023,High blood pressure,Injury,Start insulin,2552
+428,344,20,9/15/2023,High blood pressure,Hypertension,Start insulin,913
+429,448,12,3/15/2024,Headache,Allergy,Referred to specialist,887
+430,284,41,12/30/2022,Back pain,Hypertension,Prescribed antibiotics,4814
+431,302,35,12/14/2022,High blood pressure,Diabetes,Advised MRI scan,4890
+432,395,24,12/27/2022,Diabetes management,Diabetes,Take rest and fluids,1116
+433,229,13,9/11/2023,Skin rash,Hypertension,Recommended physiotherapy,3006
+434,340,50,5/5/2024,Routine Checkup,Infection,Referred to specialist,4728
+435,465,12,1/29/2025,Back pain,Diabetes,Pain relief medication,996
+436,9,9,10/7/2022,Routine Checkup,Flu,Take rest and fluids,210
+437,293,33,6/28/2025,Chest pain,Hypertension,Blood test required,2753
+438,42,1,3/4/2025,Follow-up visit,Diabetes,Pain relief medication,387
+439,401,14,3/14/2025,Routine Checkup,Hypertension,Increase dosage,4826
+440,240,17,6/22/2025,Flu symptoms,Injury,Blood test required,444
+441,387,29,2/28/2025,Diabetes management,Infection,Blood test required,1182
+442,354,26,4/8/2025,Back pain,Infection,Recommended physiotherapy,4431
+443,145,47,10/11/2022,Skin rash,Asthma,Recommended physiotherapy,4095
+444,355,38,12/29/2023,Skin rash,Flu,Increase dosage,3495
+445,7,5,6/2/2025,Back pain,Diabetes,Recommended physiotherapy,232
+446,53,9,1/29/2024,Routine Checkup,Infection,Start insulin,3901
+447,164,21,9/8/2022,Routine Checkup,Diabetes,Pain relief medication,3846
+448,181,9,3/3/2023,Diabetes management,Injury,Continue existing treatment,856
+449,209,42,1/8/2023,Skin rash,Diabetes,Advised MRI scan,1012
+450,100,18,6/27/2025,Headache,Flu,Blood test required,4529
+451,305,19,8/29/2023,Flu symptoms,Infection,Continue existing treatment,741
+452,233,6,6/24/2024,High blood pressure,Allergy,Pain relief medication,3523
+453,84,24,2/4/2024,Diabetes management,Injury,Pain relief medication,1849
+454,345,41,7/30/2024,Back pain,Hypertension,Increase dosage,2680
+455,307,13,5/11/2024,Flu symptoms,Diabetes,Continue existing treatment,986
+456,428,44,4/28/2024,Follow-up visit,Allergy,Recommended physiotherapy,1611
+457,82,40,1/14/2024,Follow-up visit,Asthma,Blood test required,2603
+458,213,32,4/25/2025,Headache,Injury,Increase dosage,4517
+459,177,22,3/17/2025,Diabetes management,Diabetes,Blood test required,748
+460,411,17,3/12/2023,Routine Checkup,Diabetes,Increase dosage,1655
+461,163,31,6/12/2023,High blood pressure,Asthma,Take rest and fluids,1239
+462,254,18,9/16/2024,High blood pressure,Asthma,Take rest and fluids,548
+463,129,15,8/9/2023,Back pain,Injury,Blood test required,1336
+464,298,9,4/18/2024,Diabetes management,Injury,Prescribed antibiotics,3591
+465,478,50,4/28/2023,Flu symptoms,Diabetes,Advised MRI scan,1297
+466,222,1,5/8/2023,High blood pressure,Infection,Recommended physiotherapy,136
+467,479,25,1/28/2025,Chest pain,Diabetes,Take rest and fluids,529
+468,56,14,2/1/2025,Headache,Allergy,Blood test required,1083
+469,422,26,4/27/2025,Follow-up visit,Asthma,Referred to specialist,2381
+470,378,46,5/6/2025,Back pain,Flu,Increase dosage,4621
+471,375,34,6/3/2025,Back pain,Asthma,Continue existing treatment,1319
+472,153,38,11/3/2023,Chest pain,Diabetes,Recommended physiotherapy,3241
+473,8,24,11/28/2022,Diabetes management,Allergy,Continue existing treatment,889
+474,277,50,12/27/2022,High blood pressure,Injury,Referred to specialist,3667
+475,70,24,2/18/2023,Headache,Allergy,Increase dosage,1546
+476,486,28,4/27/2023,Skin rash,Asthma,Take rest and fluids,1472
+477,420,8,2/3/2024,Diabetes management,Asthma,Recommended physiotherapy,3924
+478,7,39,5/16/2024,Follow-up visit,Infection,Advised MRI scan,1200
+479,477,45,10/22/2024,Headache,Infection,Recommended physiotherapy,2036
+480,175,49,7/6/2023,Injury treatment,Injury,Prescribed antibiotics,863
+481,298,21,8/23/2025,Follow-up visit,Hypertension,Pain relief medication,337
+482,382,1,11/20/2024,Chest pain,Injury,Blood test required,149
+483,424,42,10/27/2022,Injury treatment,Infection,Continue existing treatment,428
+484,248,50,11/8/2024,Follow-up visit,Injury,Referred to specialist,2227
+485,367,18,8/16/2024,Routine Checkup,Allergy,Continue existing treatment,3465
+486,325,37,8/22/2025,High blood pressure,Hypertension,Prescribed antibiotics,132
+487,278,48,11/28/2023,Routine Checkup,Injury,Prescribed antibiotics,161
+488,184,12,9/19/2023,Routine Checkup,Hypertension,Prescribed antibiotics,4045
+489,263,27,6/24/2024,Skin rash,Flu,Prescribed antibiotics,2299
+490,145,22,9/11/2025,Chest pain,Injury,Blood test required,2649
+491,176,48,5/20/2024,Routine Checkup,Infection,Blood test required,534
+492,252,47,5/29/2025,Chest pain,Asthma,Pain relief medication,4854
+493,101,28,2/28/2024,Headache,Flu,Start insulin,3887
+494,252,23,4/23/2024,Injury treatment,Flu,Increase dosage,3679
+495,111,10,8/21/2025,Chest pain,Asthma,Continue existing treatment,4582
+496,177,4,9/23/2024,Follow-up visit,Injury,Increase dosage,2647
+497,439,42,11/22/2024,Chest pain,Hypertension,Advised MRI scan,2353
+498,366,42,5/21/2024,Flu symptoms,Hypertension,Prescribed antibiotics,2689
+499,57,11,4/21/2023,Headache,Allergy,Start insulin,2955
+500,259,49,6/28/2024,Skin rash,Allergy,Pain relief medication,2934
+501,383,46,12/10/2022,Chest pain,Flu,Start insulin,4309
+502,389,11,6/27/2025,Routine Checkup,Injury,Take rest and fluids,472
+503,69,3,5/5/2023,Chest pain,Infection,Take rest and fluids,689
+504,112,1,6/22/2025,Follow-up visit,Flu,Continue existing treatment,3878
+505,186,26,5/29/2024,Headache,Allergy,Increase dosage,4821
+506,237,11,11/25/2024,Flu symptoms,Asthma,Start insulin,4947
+507,226,44,1/20/2023,Chest pain,Asthma,Continue existing treatment,4017
+508,215,15,4/23/2024,High blood pressure,Hypertension,Recommended physiotherapy,3758
+509,334,35,5/30/2024,Chest pain,Diabetes,Blood test required,1735
+510,135,44,1/26/2023,Headache,Infection,Recommended physiotherapy,1333
+511,2,12,8/6/2023,Diabetes management,Injury,Start insulin,2103
+512,111,47,9/11/2024,Follow-up visit,Infection,Advised MRI scan,1327
+513,171,44,5/21/2025,Back pain,Allergy,Continue existing treatment,3833
+514,412,15,6/26/2025,Diabetes management,Diabetes,Increase dosage,3324
+515,161,1,12/11/2023,Diabetes management,Flu,Take rest and fluids,3973
+516,208,5,10/11/2024,Follow-up visit,Diabetes,Referred to specialist,2662
+517,137,30,6/19/2025,Routine Checkup,Diabetes,Advised MRI scan,4440
+518,466,39,8/10/2025,Routine Checkup,Hypertension,Continue existing treatment,1681
+519,287,40,1/1/2024,Follow-up visit,Asthma,Start insulin,1583
+520,320,10,7/6/2024,Skin rash,Infection,Increase dosage,4395
+521,395,49,10/12/2022,High blood pressure,Allergy,Take rest and fluids,1538
+522,136,25,3/9/2025,Injury treatment,Hypertension,Take rest and fluids,2623
+523,375,43,8/3/2024,Injury treatment,Diabetes,Take rest and fluids,1681
+524,403,11,2/28/2025,Headache,Injury,Pain relief medication,4915
+525,421,9,11/15/2022,Chest pain,Flu,Recommended physiotherapy,4169
+526,496,27,3/12/2025,Flu symptoms,Allergy,Increase dosage,3700
+527,413,30,2/28/2025,Injury treatment,Allergy,Blood test required,782
+528,353,40,12/27/2024,Skin rash,Infection,Start insulin,4326
+529,251,49,2/8/2025,Injury treatment,Flu,Blood test required,3061
+530,164,46,9/9/2025,Routine Checkup,Injury,Prescribed antibiotics,4515
+531,424,34,1/8/2025,Headache,Diabetes,Recommended physiotherapy,2248
+532,179,35,12/7/2023,Routine Checkup,Flu,Start insulin,3830
+533,288,43,6/1/2025,Skin rash,Allergy,Advised MRI scan,3053
+534,44,2,6/1/2024,Flu symptoms,Asthma,Continue existing treatment,1786
+535,471,44,7/8/2023,Headache,Infection,Continue existing treatment,959
+536,432,13,12/2/2022,Diabetes management,Hypertension,Referred to specialist,463
+537,51,23,4/3/2025,Diabetes management,Flu,Blood test required,2354
+538,42,27,12/17/2023,Chest pain,Infection,Recommended physiotherapy,150
+539,500,20,1/22/2023,Routine Checkup,Hypertension,Start insulin,490
+540,478,41,4/6/2023,Flu symptoms,Infection,Increase dosage,4178
+541,456,11,3/28/2024,Diabetes management,Asthma,Increase dosage,2162
+542,289,39,12/9/2022,Injury treatment,Allergy,Start insulin,3907
+543,256,29,9/21/2024,Routine Checkup,Injury,Prescribed antibiotics,200
+544,8,22,6/23/2025,Chest pain,Injury,Referred to specialist,722
+545,256,17,2/6/2025,Diabetes management,Injury,Continue existing treatment,161
+546,414,10,9/29/2023,Follow-up visit,Injury,Prescribed antibiotics,210
+547,310,41,10/29/2023,Flu symptoms,Hypertension,Advised MRI scan,1068
+548,117,35,12/11/2022,Flu symptoms,Diabetes,Prescribed antibiotics,161
+549,204,48,10/18/2023,Headache,Hypertension,Pain relief medication,1336
+550,185,11,10/14/2023,Routine Checkup,Hypertension,Pain relief medication,1857
+551,144,46,5/2/2023,High blood pressure,Infection,Pain relief medication,762
+552,338,9,8/27/2025,Headache,Allergy,Advised MRI scan,3644
+553,37,3,6/17/2023,Back pain,Flu,Take rest and fluids,4655
+554,78,12,12/8/2022,Follow-up visit,Hypertension,Referred to specialist,168
+555,157,8,3/28/2023,Flu symptoms,Flu,Take rest and fluids,4709
+556,136,15,6/14/2023,Follow-up visit,Hypertension,Blood test required,1194
+557,76,28,8/30/2025,Back pain,Injury,Recommended physiotherapy,3697
+558,339,41,6/28/2025,Injury treatment,Hypertension,Referred to specialist,2126
+559,339,44,8/5/2024,Back pain,Injury,Recommended physiotherapy,739
+560,82,35,10/6/2022,Chest pain,Diabetes,Continue existing treatment,2463
+561,128,13,12/10/2023,Follow-up visit,Allergy,Take rest and fluids,4733
+562,55,35,8/26/2023,Back pain,Diabetes,Referred to specialist,4773
+563,431,37,3/30/2025,Injury treatment,Asthma,Increase dosage,1613
+564,396,9,2/16/2025,Chest pain,Asthma,Take rest and fluids,2110
+565,115,26,1/4/2025,Back pain,Asthma,Continue existing treatment,3424
+566,460,43,3/25/2023,High blood pressure,Hypertension,Referred to specialist,4189
+567,31,15,6/14/2024,Injury treatment,Infection,Continue existing treatment,3651
+568,465,16,5/27/2023,Diabetes management,Asthma,Start insulin,3327
+569,111,43,2/4/2025,Chest pain,Hypertension,Pain relief medication,2428
+570,478,47,4/3/2025,Injury treatment,Injury,Advised MRI scan,2140
+571,423,27,7/3/2023,High blood pressure,Injury,Pain relief medication,2904
+572,490,11,5/7/2024,Follow-up visit,Injury,Prescribed antibiotics,1326
+573,259,9,4/10/2024,Flu symptoms,Injury,Take rest and fluids,664
+574,392,25,11/2/2023,Headache,Hypertension,Recommended physiotherapy,2288
+575,281,39,6/28/2023,Injury treatment,Infection,Increase dosage,2103
+576,283,10,5/20/2024,Follow-up visit,Diabetes,Pain relief medication,3545
+577,14,45,11/11/2022,High blood pressure,Injury,Increase dosage,3912
+578,35,30,5/11/2023,High blood pressure,Allergy,Prescribed antibiotics,1849
+579,6,31,9/24/2024,Follow-up visit,Injury,Continue existing treatment,2262
+580,368,23,2/28/2025,Headache,Allergy,Increase dosage,3670
+581,398,25,11/3/2024,Diabetes management,Diabetes,Continue existing treatment,2526
+582,61,25,10/2/2024,Routine Checkup,Allergy,Referred to specialist,3381
+583,328,12,3/11/2023,High blood pressure,Injury,Take rest and fluids,1465
+584,150,18,3/8/2023,Diabetes management,Diabetes,Take rest and fluids,4968
+585,212,42,5/18/2023,Back pain,Allergy,Advised MRI scan,3451
+586,49,34,7/3/2025,Follow-up visit,Infection,Pain relief medication,2371
+587,166,43,4/9/2025,Follow-up visit,Infection,Advised MRI scan,3097
+588,410,6,10/9/2023,Routine Checkup,Injury,Pain relief medication,3941
+589,87,8,1/3/2023,Diabetes management,Diabetes,Pain relief medication,1410
+590,217,1,8/27/2023,Back pain,Hypertension,Advised MRI scan,864
+591,118,33,7/5/2025,High blood pressure,Injury,Recommended physiotherapy,2050
+592,69,29,10/17/2022,Injury treatment,Allergy,Increase dosage,1143
+593,325,21,12/8/2023,High blood pressure,Injury,Blood test required,2843
+594,119,24,3/30/2023,Headache,Diabetes,Referred to specialist,381
+595,302,33,11/6/2024,Diabetes management,Allergy,Pain relief medication,745
+596,44,27,4/3/2023,Follow-up visit,Allergy,Blood test required,3111
+597,470,33,4/19/2024,Flu symptoms,Infection,Recommended physiotherapy,3500
+598,19,20,4/30/2024,Routine Checkup,Flu,Blood test required,2822
+599,172,24,9/5/2024,Injury treatment,Allergy,Take rest and fluids,1781
+600,81,50,2/24/2025,Follow-up visit,Diabetes,Recommended physiotherapy,2223
+601,460,6,7/28/2023,Chest pain,Asthma,Take rest and fluids,3834
+602,470,27,1/12/2025,Follow-up visit,Hypertension,Start insulin,4266
+603,126,31,7/12/2025,High blood pressure,Asthma,Prescribed antibiotics,3794
+604,161,41,2/19/2025,Follow-up visit,Injury,Advised MRI scan,364
+605,355,8,3/13/2023,Skin rash,Flu,Blood test required,1140
+606,285,7,9/16/2023,Injury treatment,Allergy,Recommended physiotherapy,3480
+607,240,3,5/21/2023,Follow-up visit,Hypertension,Advised MRI scan,1157
+608,91,34,5/21/2025,Headache,Diabetes,Referred to specialist,2744
+609,308,4,1/13/2023,Diabetes management,Injury,Pain relief medication,871
+610,489,35,6/9/2024,Chest pain,Asthma,Continue existing treatment,470
+611,494,50,12/30/2024,Back pain,Injury,Advised MRI scan,231
+612,377,35,7/28/2024,Flu symptoms,Allergy,Advised MRI scan,2422
+613,224,42,12/28/2024,Skin rash,Infection,Increase dosage,614
+614,82,49,11/23/2023,Headache,Injury,Blood test required,2134
+615,345,35,3/11/2025,Injury treatment,Flu,Continue existing treatment,4994
+616,36,50,3/8/2024,Back pain,Asthma,Take rest and fluids,2006
+617,384,25,4/7/2024,Skin rash,Injury,Take rest and fluids,3063
+618,374,10,12/31/2024,Routine Checkup,Hypertension,Continue existing treatment,1209
+619,395,48,6/1/2025,Follow-up visit,Hypertension,Referred to specialist,2974
+620,158,32,10/1/2022,Chest pain,Infection,Recommended physiotherapy,4320
+621,156,22,6/5/2024,Headache,Hypertension,Continue existing treatment,676
+622,149,13,10/10/2024,Chest pain,Diabetes,Take rest and fluids,3112
+623,478,7,10/28/2023,Follow-up visit,Flu,Prescribed antibiotics,3480
+624,444,29,11/20/2022,Headache,Allergy,Referred to specialist,4614
+625,343,18,8/30/2025,Follow-up visit,Diabetes,Referred to specialist,3578
+626,275,46,7/14/2023,Chest pain,Asthma,Blood test required,4256
+627,271,4,9/21/2024,Skin rash,Hypertension,Referred to specialist,533
+628,11,29,8/2/2023,Headache,Hypertension,Prescribed antibiotics,1979
+629,266,50,12/20/2023,Follow-up visit,Injury,Take rest and fluids,4269
+630,149,30,3/25/2023,Back pain,Flu,Recommended physiotherapy,4476
+631,317,41,9/8/2025,Back pain,Diabetes,Recommended physiotherapy,3491
+632,264,39,2/15/2025,Routine Checkup,Injury,Recommended physiotherapy,785
+633,190,6,11/15/2023,High blood pressure,Hypertension,Prescribed antibiotics,1599
+634,22,47,11/17/2024,Chest pain,Flu,Increase dosage,3732
+635,270,18,10/11/2022,High blood pressure,Diabetes,Pain relief medication,1247
+636,365,1,8/23/2023,Follow-up visit,Allergy,Take rest and fluids,2454
+637,27,48,11/19/2023,High blood pressure,Injury,Take rest and fluids,1478
+638,21,50,9/22/2022,Diabetes management,Injury,Prescribed antibiotics,414
+639,18,3,12/6/2024,Headache,Infection,Pain relief medication,3754
+640,366,12,1/2/2023,Headache,Diabetes,Increase dosage,1353
+641,275,26,5/26/2024,Injury treatment,Allergy,Blood test required,1825
+642,440,39,10/6/2022,Routine Checkup,Allergy,Prescribed antibiotics,3202
+643,311,24,6/28/2024,Diabetes management,Infection,Start insulin,2827
+644,416,15,3/28/2025,Back pain,Injury,Advised MRI scan,1819
+645,450,27,7/18/2023,Routine Checkup,Asthma,Pain relief medication,3798
+646,165,6,5/6/2025,Follow-up visit,Infection,Increase dosage,376
+647,7,27,5/23/2025,Injury treatment,Injury,Start insulin,103
+648,344,9,11/7/2022,Routine Checkup,Hypertension,Recommended physiotherapy,1455
+649,462,11,4/12/2024,Back pain,Asthma,Blood test required,529
+650,240,29,1/17/2023,Routine Checkup,Infection,Continue existing treatment,3944
+651,6,42,7/3/2023,Routine Checkup,Asthma,Continue existing treatment,1034
+652,393,32,8/3/2023,Routine Checkup,Flu,Prescribed antibiotics,1952
+653,464,26,6/30/2025,Follow-up visit,Flu,Blood test required,432
+654,259,35,1/23/2025,Injury treatment,Diabetes,Referred to specialist,802
+655,50,34,10/12/2024,Routine Checkup,Hypertension,Take rest and fluids,1055
+656,64,39,5/13/2024,Back pain,Hypertension,Continue existing treatment,4000
+657,230,8,6/2/2023,Routine Checkup,Diabetes,Prescribed antibiotics,2722
+658,351,19,5/12/2023,High blood pressure,Injury,Recommended physiotherapy,3515
+659,455,41,12/5/2024,Follow-up visit,Flu,Take rest and fluids,3654
+660,361,21,1/10/2025,Injury treatment,Injury,Prescribed antibiotics,3021
+661,67,38,7/13/2023,Diabetes management,Diabetes,Blood test required,1557
+662,197,24,3/29/2023,Headache,Hypertension,Start insulin,2773
+663,195,13,6/20/2023,Follow-up visit,Injury,Referred to specialist,3644
+664,228,33,10/26/2023,High blood pressure,Injury,Take rest and fluids,166
+665,256,50,1/13/2023,Back pain,Diabetes,Increase dosage,440
+666,94,35,10/30/2022,Routine Checkup,Allergy,Continue existing treatment,3273
+667,83,14,12/27/2023,Follow-up visit,Asthma,Prescribed antibiotics,1712
+668,413,42,3/18/2024,Chest pain,Asthma,Advised MRI scan,4978
+669,444,12,3/6/2025,Flu symptoms,Asthma,Prescribed antibiotics,4383
+670,118,26,6/1/2024,Injury treatment,Hypertension,Referred to specialist,4946
+671,413,29,1/10/2024,Headache,Asthma,Referred to specialist,3030
+672,36,12,9/9/2022,Back pain,Flu,Advised MRI scan,3071
+673,382,14,1/30/2025,Back pain,Injury,Continue existing treatment,4006
+674,74,23,2/23/2024,Follow-up visit,Asthma,Pain relief medication,4809
+675,499,39,5/16/2025,High blood pressure,Allergy,Pain relief medication,3849
+676,354,3,11/7/2023,Headache,Infection,Increase dosage,4790
+677,188,39,9/10/2023,High blood pressure,Asthma,Start insulin,3203
+678,31,13,1/25/2024,Back pain,Allergy,Referred to specialist,1523
+679,318,21,12/18/2023,Back pain,Infection,Referred to specialist,1067
+680,431,24,8/12/2023,Follow-up visit,Asthma,Pain relief medication,1397
+681,153,34,10/21/2024,Chest pain,Asthma,Recommended physiotherapy,1383
+682,11,43,10/22/2023,Flu symptoms,Flu,Prescribed antibiotics,2527
+683,128,40,9/5/2024,Diabetes management,Asthma,Prescribed antibiotics,2433
+684,392,40,10/28/2024,Flu symptoms,Allergy,Continue existing treatment,631
+685,53,31,7/19/2024,Follow-up visit,Injury,Take rest and fluids,3809
+686,14,2,9/1/2025,Headache,Injury,Pain relief medication,1066
+687,126,28,12/18/2024,Headache,Asthma,Start insulin,1586
+688,343,50,11/5/2024,Diabetes management,Flu,Recommended physiotherapy,4834
+689,11,20,10/12/2023,Injury treatment,Allergy,Continue existing treatment,2974
+690,179,31,4/28/2025,Injury treatment,Infection,Take rest and fluids,4791
+691,102,4,12/24/2024,Diabetes management,Injury,Pain relief medication,2681
+692,399,6,7/9/2024,Back pain,Allergy,Recommended physiotherapy,3004
+693,477,38,11/28/2024,Routine Checkup,Diabetes,Advised MRI scan,4920
+694,446,40,8/27/2025,High blood pressure,Asthma,Take rest and fluids,1968
+695,110,14,1/5/2025,Diabetes management,Flu,Increase dosage,288
+696,200,2,7/3/2025,High blood pressure,Asthma,Advised MRI scan,4536
+697,267,35,5/1/2025,High blood pressure,Infection,Pain relief medication,2816
+698,414,37,10/6/2024,Injury treatment,Diabetes,Increase dosage,1970
+699,194,8,6/9/2025,Injury treatment,Infection,Recommended physiotherapy,3470
+700,225,35,8/27/2025,Diabetes management,Infection,Blood test required,1091
+701,412,4,1/17/2024,Injury treatment,Hypertension,Start insulin,885
+702,451,7,12/6/2022,Follow-up visit,Allergy,Start insulin,763
+703,120,42,12/11/2022,Chest pain,Injury,Start insulin,409
+704,477,46,1/21/2025,Diabetes management,Hypertension,Take rest and fluids,4059
+705,77,10,8/15/2025,Flu symptoms,Injury,Take rest and fluids,1102
+706,329,41,4/22/2024,Diabetes management,Infection,Blood test required,607
+707,289,31,10/12/2023,Flu symptoms,Asthma,Prescribed antibiotics,4388
+708,173,16,12/13/2022,Skin rash,Asthma,Take rest and fluids,2437
+709,180,37,8/6/2025,Routine Checkup,Asthma,Recommended physiotherapy,1112
+710,390,25,3/26/2024,Routine Checkup,Injury,Advised MRI scan,4493
+711,496,48,8/5/2023,Routine Checkup,Asthma,Increase dosage,1221
+712,98,35,2/21/2024,High blood pressure,Infection,Take rest and fluids,3489
+713,70,14,6/30/2024,Back pain,Injury,Continue existing treatment,3984
+714,210,42,8/22/2025,Diabetes management,Diabetes,Prescribed antibiotics,3235
+715,398,26,9/22/2023,Skin rash,Flu,Advised MRI scan,1843
+716,224,30,6/6/2025,Routine Checkup,Diabetes,Take rest and fluids,1531
+717,342,38,1/14/2024,Headache,Infection,Blood test required,691
+718,122,50,5/5/2025,Follow-up visit,Infection,Blood test required,2689
+719,92,23,10/11/2024,Back pain,Infection,Increase dosage,1356
+720,89,2,5/1/2024,High blood pressure,Infection,Take rest and fluids,4598
+721,218,26,5/18/2024,Follow-up visit,Injury,Start insulin,1520
+722,423,13,11/27/2022,Follow-up visit,Asthma,Increase dosage,4756
+723,481,6,5/27/2025,Injury treatment,Asthma,Referred to specialist,2933
+724,435,2,9/13/2022,Chest pain,Allergy,Blood test required,4233
+725,212,33,8/25/2024,Skin rash,Infection,Increase dosage,179
+726,251,35,5/10/2023,Routine Checkup,Allergy,Start insulin,4669
+727,60,13,12/16/2024,High blood pressure,Allergy,Prescribed antibiotics,1969
+728,73,32,6/20/2023,High blood pressure,Hypertension,Increase dosage,4445
+729,438,23,9/6/2024,Follow-up visit,Infection,Advised MRI scan,586
+730,385,10,6/13/2023,Follow-up visit,Flu,Take rest and fluids,2976
+731,105,20,4/1/2025,Back pain,Asthma,Continue existing treatment,860
+732,32,9,4/9/2025,Diabetes management,Allergy,Recommended physiotherapy,4201
+733,404,15,4/16/2025,Routine Checkup,Hypertension,Advised MRI scan,1337
+734,161,26,1/10/2023,Follow-up visit,Injury,Advised MRI scan,1026
+735,44,12,6/15/2023,Diabetes management,Diabetes,Increase dosage,368
+736,155,27,6/28/2024,Flu symptoms,Flu,Continue existing treatment,4593
+737,87,10,4/4/2023,Chest pain,Asthma,Advised MRI scan,923
+738,186,16,1/29/2025,Follow-up visit,Diabetes,Advised MRI scan,3235
+739,29,43,12/30/2022,Follow-up visit,Hypertension,Take rest and fluids,3856
+740,236,34,2/14/2023,Injury treatment,Allergy,Pain relief medication,882
+741,262,34,3/6/2024,Injury treatment,Infection,Referred to specialist,387
+742,362,48,3/6/2023,Routine Checkup,Hypertension,Increase dosage,369
+743,256,21,11/26/2023,Back pain,Hypertension,Advised MRI scan,4730
+744,247,22,6/30/2024,High blood pressure,Infection,Increase dosage,4803
+745,13,11,6/9/2023,Headache,Allergy,Prescribed antibiotics,4293
+746,211,25,1/14/2024,Flu symptoms,Hypertension,Recommended physiotherapy,3805
+747,223,12,6/20/2025,Skin rash,Allergy,Continue existing treatment,1409
+748,4,22,8/30/2023,Routine Checkup,Asthma,Take rest and fluids,1956
+749,180,15,11/28/2023,Chest pain,Infection,Advised MRI scan,1692
+750,357,17,11/4/2024,Skin rash,Flu,Recommended physiotherapy,4151
+751,403,27,5/28/2025,Injury treatment,Infection,Blood test required,2944
+752,198,30,2/11/2023,Back pain,Hypertension,Take rest and fluids,2541
+753,465,5,11/23/2024,Skin rash,Diabetes,Start insulin,2776
+754,218,28,6/24/2025,Skin rash,Diabetes,Blood test required,4472
+755,293,40,12/2/2023,Chest pain,Asthma,Pain relief medication,3404
+756,489,16,2/12/2025,Diabetes management,Flu,Increase dosage,593
+757,295,22,3/7/2025,Injury treatment,Asthma,Take rest and fluids,1724
+758,334,17,1/21/2025,Routine Checkup,Flu,Start insulin,3004
+759,56,5,11/7/2022,Flu symptoms,Infection,Recommended physiotherapy,2789
+760,432,25,7/12/2023,Flu symptoms,Diabetes,Blood test required,3200
+761,463,27,5/24/2025,Skin rash,Injury,Increase dosage,578
+762,127,44,5/18/2024,Chest pain,Allergy,Pain relief medication,1314
+763,289,49,6/20/2024,Follow-up visit,Flu,Recommended physiotherapy,2203
+764,28,15,9/29/2023,Diabetes management,Injury,Recommended physiotherapy,565
+765,395,7,7/30/2025,Back pain,Allergy,Prescribed antibiotics,2868
+766,363,13,8/17/2025,Routine Checkup,Allergy,Recommended physiotherapy,1788
+767,147,18,12/20/2023,Injury treatment,Hypertension,Blood test required,2292
+768,6,25,10/24/2023,Headache,Diabetes,Take rest and fluids,2993
+769,346,11,10/16/2023,Diabetes management,Injury,Blood test required,3871
+770,352,34,12/21/2022,Diabetes management,Diabetes,Prescribed antibiotics,1052
+771,28,40,10/26/2022,Flu symptoms,Flu,Prescribed antibiotics,2766
+772,343,4,4/23/2023,Skin rash,Infection,Start insulin,1998
+773,363,28,11/26/2023,Skin rash,Allergy,Continue existing treatment,2935
+774,393,5,1/28/2023,Routine Checkup,Flu,Referred to specialist,2476
+775,465,32,5/6/2023,Back pain,Infection,Pain relief medication,2441
+776,129,8,5/16/2023,Headache,Flu,Blood test required,1911
+777,70,44,12/12/2023,Follow-up visit,Infection,Recommended physiotherapy,1353
+778,459,33,9/14/2023,High blood pressure,Asthma,Prescribed antibiotics,1112
+779,90,6,1/10/2024,Skin rash,Asthma,Referred to specialist,2779
+780,429,12,8/10/2024,Follow-up visit,Diabetes,Pain relief medication,4614
+781,257,14,12/21/2024,High blood pressure,Asthma,Increase dosage,2515
+782,370,27,2/12/2023,Injury treatment,Hypertension,Take rest and fluids,3049
+783,370,32,1/7/2023,Chest pain,Diabetes,Increase dosage,4164
+784,176,1,2/7/2023,Follow-up visit,Asthma,Increase dosage,3750
+785,284,46,3/18/2025,Diabetes management,Diabetes,Take rest and fluids,318
+786,427,40,9/19/2024,Back pain,Infection,Pain relief medication,3517
+787,116,33,7/31/2025,Injury treatment,Injury,Take rest and fluids,2913
+788,189,2,12/13/2022,Flu symptoms,Infection,Prescribed antibiotics,3173
+789,261,30,7/19/2025,Headache,Hypertension,Blood test required,4337
+790,180,10,2/18/2025,Diabetes management,Flu,Blood test required,2387
+791,409,23,1/26/2023,Follow-up visit,Infection,Blood test required,3386
+792,377,17,2/25/2025,Chest pain,Diabetes,Pain relief medication,1382
+793,406,39,12/7/2022,Chest pain,Infection,Increase dosage,4497
+794,23,21,5/14/2023,Headache,Injury,Take rest and fluids,4607
+795,125,48,5/12/2023,High blood pressure,Hypertension,Take rest and fluids,4472
+796,319,40,9/11/2023,High blood pressure,Injury,Referred to specialist,1070
+797,301,28,4/25/2024,Follow-up visit,Injury,Take rest and fluids,3635
+798,415,1,4/8/2025,Routine Checkup,Diabetes,Pain relief medication,3655
+799,105,30,2/27/2025,Routine Checkup,Allergy,Start insulin,2011
+800,476,42,9/8/2023,High blood pressure,Infection,Continue existing treatment,4828
+801,354,49,11/10/2024,Back pain,Hypertension,Start insulin,3108
+802,304,5,4/9/2023,High blood pressure,Allergy,Referred to specialist,3788
+803,134,6,10/2/2022,Injury treatment,Allergy,Pain relief medication,4576
+804,192,30,8/14/2024,Skin rash,Asthma,Advised MRI scan,453
+805,393,16,9/12/2024,Follow-up visit,Hypertension,Referred to specialist,3657
+806,73,5,1/28/2023,Flu symptoms,Hypertension,Increase dosage,3986
+807,115,24,12/22/2024,Injury treatment,Diabetes,Start insulin,4171
+808,172,34,12/31/2024,Flu symptoms,Infection,Advised MRI scan,3861
+809,259,28,4/26/2024,Flu symptoms,Infection,Blood test required,1547
+810,94,1,9/13/2025,Diabetes management,Diabetes,Start insulin,3921
+811,198,5,10/23/2024,Skin rash,Allergy,Take rest and fluids,1040
+812,216,37,12/26/2022,Back pain,Infection,Increase dosage,4989
+813,76,42,9/13/2022,Flu symptoms,Allergy,Recommended physiotherapy,1806
+814,7,45,9/17/2022,Follow-up visit,Flu,Take rest and fluids,600
+815,261,46,12/8/2022,Injury treatment,Asthma,Recommended physiotherapy,2901
+816,225,37,2/4/2025,Flu symptoms,Flu,Referred to specialist,4068
+817,339,47,11/29/2024,Routine Checkup,Asthma,Take rest and fluids,1040
+818,364,40,10/8/2024,Skin rash,Hypertension,Blood test required,3772
+819,219,44,2/5/2024,Diabetes management,Injury,Take rest and fluids,2411
+820,209,41,7/22/2023,Headache,Diabetes,Prescribed antibiotics,2727
+821,314,4,10/31/2023,Diabetes management,Flu,Take rest and fluids,2179
+822,48,34,3/24/2023,Skin rash,Flu,Take rest and fluids,2270
+823,104,8,1/29/2024,Injury treatment,Injury,Continue existing treatment,2147
+824,146,11,6/26/2023,Routine Checkup,Allergy,Start insulin,2161
+825,457,4,8/5/2025,Flu symptoms,Injury,Referred to specialist,1692
+826,361,25,4/12/2024,Skin rash,Flu,Take rest and fluids,4938
+827,225,28,5/14/2024,Routine Checkup,Flu,Pain relief medication,4783
+828,463,49,10/7/2022,Chest pain,Flu,Referred to specialist,3817
+829,374,31,11/21/2022,Diabetes management,Allergy,Pain relief medication,1180
+830,20,34,1/28/2025,High blood pressure,Flu,Continue existing treatment,2784
+831,113,48,3/2/2024,Chest pain,Infection,Increase dosage,1380
+832,107,8,3/3/2025,Back pain,Hypertension,Continue existing treatment,2846
+833,52,7,7/31/2024,Diabetes management,Injury,Prescribed antibiotics,4315
+834,177,18,8/3/2025,Injury treatment,Hypertension,Increase dosage,2265
+835,249,28,2/9/2025,High blood pressure,Infection,Blood test required,583
+836,219,49,5/20/2024,Headache,Hypertension,Start insulin,4974
+837,112,22,2/24/2023,Follow-up visit,Diabetes,Blood test required,2460
+838,298,15,2/2/2025,Injury treatment,Injury,Blood test required,2559
+839,351,17,5/6/2023,Diabetes management,Flu,Increase dosage,3386
+840,216,12,8/15/2024,High blood pressure,Hypertension,Recommended physiotherapy,2519
+841,328,47,3/14/2025,Back pain,Injury,Take rest and fluids,3624
+842,149,45,9/21/2024,Flu symptoms,Hypertension,Blood test required,4211
+843,174,47,5/14/2025,High blood pressure,Diabetes,Advised MRI scan,1256
+844,371,20,12/15/2023,Follow-up visit,Asthma,Take rest and fluids,625
+845,7,11,7/25/2024,Skin rash,Flu,Pain relief medication,4056
+846,52,29,9/6/2022,Injury treatment,Hypertension,Advised MRI scan,925
+847,71,46,2/27/2023,Follow-up visit,Diabetes,Take rest and fluids,3353
+848,41,42,2/23/2023,Injury treatment,Infection,Pain relief medication,1989
+849,45,24,7/10/2025,Chest pain,Allergy,Advised MRI scan,4748
+850,257,43,8/1/2024,Skin rash,Flu,Blood test required,4257
+851,223,45,9/17/2025,Headache,Allergy,Continue existing treatment,2854
+852,331,46,11/4/2023,Skin rash,Infection,Increase dosage,1345
+853,199,42,8/25/2023,Follow-up visit,Flu,Recommended physiotherapy,3027
+854,330,23,4/26/2023,Injury treatment,Injury,Pain relief medication,2515
+855,359,50,3/24/2023,Injury treatment,Flu,Pain relief medication,4617
+856,155,19,8/2/2024,Routine Checkup,Hypertension,Recommended physiotherapy,847
+857,285,13,1/20/2024,Follow-up visit,Infection,Advised MRI scan,3471
+858,478,11,9/5/2022,Diabetes management,Hypertension,Prescribed antibiotics,4757
+859,30,39,2/26/2024,Follow-up visit,Infection,Take rest and fluids,1856
+860,155,45,5/9/2025,Routine Checkup,Diabetes,Pain relief medication,2668
+861,10,23,8/26/2023,High blood pressure,Flu,Increase dosage,3091
+862,404,18,2/23/2025,Skin rash,Flu,Take rest and fluids,3105
+863,68,22,12/29/2023,Diabetes management,Diabetes,Prescribed antibiotics,1331
+864,268,16,10/30/2024,High blood pressure,Asthma,Continue existing treatment,1134
+865,28,1,10/16/2024,Flu symptoms,Allergy,Continue existing treatment,246
+866,451,44,1/26/2024,Back pain,Asthma,Blood test required,192
+867,201,18,9/6/2023,Flu symptoms,Asthma,Continue existing treatment,1554
+868,106,23,8/3/2023,Routine Checkup,Diabetes,Increase dosage,1849
+869,224,15,4/19/2024,Skin rash,Allergy,Referred to specialist,949
+870,209,36,10/8/2022,Follow-up visit,Asthma,Start insulin,107
+871,7,49,5/18/2024,Skin rash,Flu,Prescribed antibiotics,4490
+872,488,7,5/31/2023,Routine Checkup,Allergy,Pain relief medication,4326
+873,374,15,5/10/2024,Back pain,Hypertension,Start insulin,293
+874,75,48,12/28/2023,Flu symptoms,Diabetes,Pain relief medication,3209
+875,316,11,6/9/2024,Back pain,Flu,Continue existing treatment,4016
+876,337,50,6/8/2023,Diabetes management,Injury,Recommended physiotherapy,4491
+877,60,42,12/5/2023,Headache,Injury,Recommended physiotherapy,2491
+878,52,12,9/10/2025,Routine Checkup,Injury,Referred to specialist,614
+879,49,9,9/17/2023,Follow-up visit,Flu,Advised MRI scan,4409
+880,354,26,4/11/2024,Injury treatment,Flu,Start insulin,3382
+881,202,20,1/7/2025,Injury treatment,Injury,Take rest and fluids,2379
+882,300,5,11/25/2023,High blood pressure,Hypertension,Take rest and fluids,2604
+883,108,50,8/8/2025,Chest pain,Flu,Start insulin,2528
+884,262,22,7/14/2025,High blood pressure,Asthma,Recommended physiotherapy,4710
+885,443,42,4/23/2023,Back pain,Flu,Referred to specialist,3610
+886,175,40,5/1/2024,Chest pain,Injury,Advised MRI scan,2208
+887,450,49,5/24/2024,Skin rash,Diabetes,Take rest and fluids,3791
+888,155,15,12/20/2024,High blood pressure,Allergy,Start insulin,3254
+889,210,30,3/22/2023,Follow-up visit,Flu,Blood test required,2752
+890,167,4,6/9/2025,Routine Checkup,Asthma,Prescribed antibiotics,3934
+891,377,40,9/18/2025,Chest pain,Diabetes,Pain relief medication,4809
+892,245,39,10/1/2024,High blood pressure,Flu,Recommended physiotherapy,248
+893,61,35,7/26/2025,Skin rash,Diabetes,Continue existing treatment,1848
+894,82,2,4/5/2024,Chest pain,Asthma,Pain relief medication,431
+895,384,49,12/8/2024,Follow-up visit,Hypertension,Start insulin,1141
+896,454,12,7/19/2024,Chest pain,Flu,Recommended physiotherapy,3015
+897,415,30,11/21/2023,Chest pain,Flu,Start insulin,2497
+898,212,49,9/22/2023,Injury treatment,Hypertension,Prescribed antibiotics,3898
+899,25,39,8/31/2025,Headache,Allergy,Continue existing treatment,3742
+900,248,2,1/11/2025,Injury treatment,Allergy,Continue existing treatment,3287
+901,475,28,2/12/2025,Headache,Diabetes,Increase dosage,1497
+902,363,25,2/27/2023,Diabetes management,Injury,Blood test required,3028
+903,446,16,3/5/2025,Chest pain,Diabetes,Prescribed antibiotics,4964
+904,443,38,5/3/2025,Routine Checkup,Diabetes,Recommended physiotherapy,4213
+905,446,30,3/6/2023,Injury treatment,Hypertension,Start insulin,2382
+906,167,31,3/11/2025,Skin rash,Diabetes,Increase dosage,1647
+907,224,23,12/3/2022,Routine Checkup,Diabetes,Prescribed antibiotics,4084
+908,271,40,2/21/2025,Headache,Hypertension,Continue existing treatment,4782
+909,451,20,5/23/2025,Back pain,Diabetes,Start insulin,2859
+910,207,33,1/8/2023,Headache,Infection,Prescribed antibiotics,845
+911,218,31,1/21/2025,Follow-up visit,Asthma,Advised MRI scan,2247
+912,136,50,10/28/2023,Injury treatment,Allergy,Take rest and fluids,279
+913,485,7,4/1/2025,Chest pain,Hypertension,Recommended physiotherapy,3966
+914,327,41,9/3/2025,Flu symptoms,Hypertension,Advised MRI scan,4015
+915,396,49,11/7/2023,Skin rash,Allergy,Referred to specialist,1655
+916,211,21,10/4/2024,Injury treatment,Allergy,Advised MRI scan,1489
+917,396,29,2/21/2023,High blood pressure,Diabetes,Pain relief medication,4577
+918,416,41,4/30/2024,Chest pain,Injury,Start insulin,1703
+919,291,38,10/23/2024,High blood pressure,Allergy,Take rest and fluids,382
+920,179,34,5/15/2025,Skin rash,Infection,Blood test required,4112
+921,474,1,8/21/2025,Injury treatment,Flu,Recommended physiotherapy,3412
+922,86,17,10/19/2024,Injury treatment,Asthma,Recommended physiotherapy,4394
+923,310,27,1/17/2024,Injury treatment,Allergy,Take rest and fluids,1409
+924,252,33,2/10/2024,Chest pain,Infection,Pain relief medication,4922
+925,479,10,6/6/2024,Routine Checkup,Diabetes,Prescribed antibiotics,1558
+926,331,13,2/26/2025,Injury treatment,Allergy,Recommended physiotherapy,3455
+927,450,7,2/26/2024,Diabetes management,Infection,Referred to specialist,4234
+928,384,20,10/21/2023,Injury treatment,Diabetes,Take rest and fluids,2985
+929,7,22,10/20/2023,Diabetes management,Allergy,Continue existing treatment,1811
+930,321,40,3/29/2023,Flu symptoms,Infection,Advised MRI scan,1760
+931,3,39,7/4/2024,Back pain,Flu,Prescribed antibiotics,3127
+932,165,14,10/31/2023,Diabetes management,Hypertension,Continue existing treatment,4516
+933,318,9,5/9/2023,Diabetes management,Asthma,Prescribed antibiotics,2655
+934,457,3,7/14/2024,Routine Checkup,Allergy,Increase dosage,736
+935,402,5,9/28/2024,Skin rash,Flu,Referred to specialist,4087
+936,36,49,5/22/2024,Routine Checkup,Asthma,Pain relief medication,2802
+937,340,27,10/2/2022,Chest pain,Hypertension,Referred to specialist,137
+938,256,44,7/11/2025,Follow-up visit,Asthma,Referred to specialist,3434
+939,31,43,8/27/2023,High blood pressure,Injury,Continue existing treatment,798
+940,326,15,9/4/2024,Routine Checkup,Asthma,Pain relief medication,905
+941,270,1,2/15/2024,Injury treatment,Asthma,Referred to specialist,4620
+942,129,40,5/29/2024,Routine Checkup,Injury,Advised MRI scan,3975
+943,15,19,12/27/2023,High blood pressure,Diabetes,Take rest and fluids,765
+944,433,47,7/23/2023,High blood pressure,Allergy,Start insulin,871
+945,254,19,3/20/2025,Routine Checkup,Allergy,Advised MRI scan,4533
+946,479,32,3/16/2025,Chest pain,Allergy,Start insulin,2507
+947,49,24,5/28/2025,Skin rash,Flu,Pain relief medication,3629
+948,205,21,4/9/2023,Chest pain,Injury,Referred to specialist,4776
+949,226,43,12/31/2023,Skin rash,Diabetes,Advised MRI scan,959
+950,51,28,7/2/2024,Routine Checkup,Diabetes,Take rest and fluids,1776
+951,341,49,3/19/2024,Headache,Hypertension,Start insulin,1931
+952,370,22,9/4/2022,Routine Checkup,Allergy,Blood test required,2491
+953,140,27,4/29/2024,Diabetes management,Flu,Prescribed antibiotics,3356
+954,421,44,6/9/2024,Headache,Flu,Pain relief medication,4664
+955,185,13,1/31/2023,Follow-up visit,Flu,Continue existing treatment,111
+956,304,23,2/19/2023,Flu symptoms,Asthma,Pain relief medication,3965
+957,53,25,6/25/2024,High blood pressure,Hypertension,Prescribed antibiotics,4574
+958,338,32,7/28/2025,Follow-up visit,Flu,Referred to specialist,628
+959,469,11,6/15/2024,Follow-up visit,Allergy,Start insulin,2852
+960,133,21,1/6/2025,Flu symptoms,Hypertension,Pain relief medication,2053
+961,248,7,2/28/2025,Diabetes management,Infection,Referred to specialist,1259
+962,213,20,1/25/2024,Chest pain,Hypertension,Increase dosage,702
+963,240,32,9/20/2024,Skin rash,Asthma,Advised MRI scan,2118
+964,469,16,3/20/2024,Headache,Injury,Continue existing treatment,1914
+965,491,5,11/20/2024,High blood pressure,Injury,Continue existing treatment,3334
+966,441,38,11/30/2022,Skin rash,Injury,Prescribed antibiotics,4339
+967,422,33,9/6/2022,Routine Checkup,Infection,Blood test required,247
+968,169,45,10/8/2024,Headache,Infection,Recommended physiotherapy,1213
+969,92,27,5/29/2025,Chest pain,Flu,Start insulin,2687
+970,33,9,3/1/2023,Skin rash,Allergy,Pain relief medication,2446
+971,361,22,6/10/2024,Follow-up visit,Allergy,Pain relief medication,1648
+972,443,48,6/12/2025,Diabetes management,Hypertension,Start insulin,3014
+973,422,12,6/1/2025,Headache,Infection,Advised MRI scan,4582
+974,495,32,1/16/2025,Diabetes management,Hypertension,Take rest and fluids,4418
+975,22,17,6/21/2024,Back pain,Flu,Start insulin,2027
+976,147,12,5/10/2023,High blood pressure,Infection,Pain relief medication,3655
+977,342,42,6/30/2024,Routine Checkup,Diabetes,Pain relief medication,2357
+978,314,30,9/5/2025,High blood pressure,Allergy,Continue existing treatment,2813
+979,25,16,8/21/2024,Headache,Hypertension,Continue existing treatment,1039
+980,483,11,6/6/2025,Injury treatment,Infection,Take rest and fluids,3873
+981,55,42,12/6/2024,Headache,Injury,Advised MRI scan,3879
+982,4,41,10/10/2024,High blood pressure,Infection,Pain relief medication,445
+983,65,18,2/15/2025,Chest pain,Injury,Advised MRI scan,2090
+984,99,27,2/11/2023,Chest pain,Hypertension,Pain relief medication,3071
+985,188,49,12/31/2024,Headache,Diabetes,Pain relief medication,1107
+986,55,46,9/1/2023,Skin rash,Flu,Advised MRI scan,1411
+987,324,27,4/20/2023,Chest pain,Diabetes,Prescribed antibiotics,413
+988,59,43,9/9/2025,Injury treatment,Infection,Referred to specialist,2627
+989,407,29,7/16/2023,Headache,Injury,Continue existing treatment,2707
+990,62,9,7/9/2023,Routine Checkup,Allergy,Recommended physiotherapy,378
+991,133,38,3/5/2024,Chest pain,Hypertension,Advised MRI scan,4601
+992,102,2,9/9/2025,Back pain,Injury,Increase dosage,795
+993,352,45,9/12/2023,Skin rash,Hypertension,Increase dosage,1411
+994,315,44,8/22/2023,Skin rash,Flu,Start insulin,2538
+995,367,20,5/9/2023,Diabetes management,Allergy,Prescribed antibiotics,4189
+996,236,19,12/5/2024,Chest pain,Asthma,Prescribed antibiotics,919
+997,400,16,4/27/2023,Injury treatment,Injury,Blood test required,3906
+998,293,29,10/6/2023,Follow-up visit,Flu,Increase dosage,1614
+999,236,28,1/25/2025,Flu symptoms,Allergy,Prescribed antibiotics,2803
+1000,440,26,2/16/2024,Back pain,Injury,Prescribed antibiotics,4434
